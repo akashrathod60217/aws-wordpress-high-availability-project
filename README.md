@@ -74,6 +74,11 @@ Successfully deployed a scalable, secure, and highly available WordPress applica
 
 ---
 
+## AWS WordPress Architecture Image
+- ![AWS WordPress Architecture](https://raw.githubusercontent.com/akashrathod60217/aws-wordpress-high-availability-project/main/images/architecture.png)
+
+---
+
 ## 🚀 Future Improvements
 - Implement CI/CD pipeline using Jenkins or GitHub Actions
 - Containerize application using Docker
