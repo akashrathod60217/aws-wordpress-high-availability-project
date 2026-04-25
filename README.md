@@ -71,8 +71,7 @@ Application Load Balancer distributing incoming traffic across multiple EC2 inst
 
 ## AWS WordPress Architecture Image
 
-- ![AWS WordPress Architecture][(https://github.com/user-attachments/assets/0afd02ac-d5be-4a16-9ddb-510e177a9cd0" />)](https://github.com/akashrathod60217/aws-wordpress-high-availability-project/blob/main/architecture.png)
- 
+- ![AWS WordPress Architecture]architecture.png
 ---
 
 ## 📈 Outcome
