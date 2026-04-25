@@ -71,9 +71,9 @@ Application Load Balancer distributing incoming traffic across multiple EC2 inst
 
 ## AWS WordPress Architecture Image
 
-- ![AWS WordPress Architecture][architecture.png](https://github.com/akashrathod60217/aws-wordpress-high-availability-project/blob/main/architecture.png)
+- ![AWS WordPress Architecture](https://github.com/akashrathod60217/aws-wordpress-high-availability-project/blob/main/architecture.png)
 
-  ---
+---
 
 ## 📈 Outcome
 Successfully deployed a scalable, secure, and highly available WordPress application using AWS services, simulating real-world production infrastructure.
