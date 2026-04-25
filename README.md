@@ -108,8 +108,3 @@ Designed and deployed a **highly available, scalable WordPress application** on 
 - Use Terraform for Infrastructure as Code  
 
 ---
-
-## 🌐 Live Demo
-(Add your CloudFront URL or ALB DNS here)
-
----
