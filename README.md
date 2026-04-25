@@ -75,7 +75,7 @@ Successfully deployed a scalable, secure, and highly available WordPress applica
 ---
 
 ## AWS WordPress Architecture Image
-- ![AWS WordPress Architecture](<img width="1536" height="1024" alt="architecture" src="https://github.com/user-attachments/assets/0afd02ac-d5be-4a16-9ddb-510e177a9cd0" />)
+- ![AWS WordPress Architecture](https://github.com/user-attachments/assets/0afd02ac-d5be-4a16-9ddb-510e177a9cd0" />)
 
 ---
 
