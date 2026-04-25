@@ -76,7 +76,23 @@ Application Load Balancer distributing incoming traffic across multiple EC2 inst
 ---
 
 ## 📈 Outcome
-Successfully deployed a scalable, secure, and highly available WordPress application using AWS services, simulating real-world production infrastructure.
+Successfully deployed a scalable, secure, and highly available WordPress application using AWS services, simulating real-world production infrastructure. 
+<img width="1919" height="1079" alt="post" src="https://github.com/user-attachments/assets/6626e35b-8e99-4a73-b990-ab94d76fb866" />
+
+---
+
+## Architecture Explanation
+
+This project demonstrates a highly available WordPress deployment on AWS.
+
+- User requests are first routed through **CloudFront (CDN)** to reduce latency and improve performance  
+- Traffic is forwarded to the **Application Load Balancer (ALB)** which distributes requests across multiple EC2 instances  
+- **EC2 instances (Auto Scaling Group)** host the WordPress application and scale automatically based on demand  
+- **Amazon RDS (MySQL - Multi-AZ)** provides a managed and highly available database backend  
+- **Amazon S3** is used for storing static assets and backups  
+- **IAM roles and Security Groups** ensure secure access and network control  
+
+This architecture ensures **high availability, scalability, fault tolerance, and performance optimization**.
 
 ---
 
